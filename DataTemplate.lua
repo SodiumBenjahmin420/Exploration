@@ -14,7 +14,7 @@
 
 	
 
-	RejoinCframe = '-48.222, 1.227, -141.115';
+	RejoinCframe = '-48.222, 2.227, -141.115';
 
 	HairColor = '';
 
