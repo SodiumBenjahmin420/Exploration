@@ -18,5 +18,9 @@
 
 	HairColor = '';
 
+	Inventory = {};
+
+	SlotData = {};
+
 	
 }
