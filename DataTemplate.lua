@@ -27,6 +27,8 @@
 
 	Inventory = {};
 
+	Weapon = "";
+
 	SlotData = {
 		["1"] = nil;
 		["2"] = nil;
