@@ -31,7 +31,7 @@
 
 	BurntArm = "";
 
-	BurntDownside = "":
+	BurntDownside = "";
 
 	SlotData = {
 		["1"] = nil;
