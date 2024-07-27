@@ -29,7 +29,9 @@
 
 	Weapon = "";
 
-	BurntArm = "None";
+	BurntArm = "";
+
+	BurntDownside = "":
 
 	SlotData = {
 		["1"] = nil;
