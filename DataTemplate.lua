@@ -1,4 +1,4 @@
-{
+return {
 
 	Name = '';
 
@@ -45,5 +45,15 @@
 		["0"] = nil;
 	};
 
+Settings = {
+
+FpsShown = false;
+
+Music = true;
+
+};
+
 
 }
+
+
